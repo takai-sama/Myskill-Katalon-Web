@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can't login with empty email</description>
+   <name>TC10 - Login with empty email</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>2bfcac51-0b13-4f1a-ba36-fd302bb7ce17</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can't register with empty email</description>
+   <name>TC3 - Register with empty email</name>
+   <tag>register</tag>
+   <comment></comment>
+   <testCaseGuid>f972d7e3-9e56-4817-83d1-893e58772a23</testCaseGuid>
+</TestCaseEntity>

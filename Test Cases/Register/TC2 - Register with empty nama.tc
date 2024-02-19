@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can't register with empty nama toko</description>
+   <name>TC2 - Register with empty nama</name>
+   <tag>register</tag>
+   <comment></comment>
+   <testCaseGuid>2b9eb660-c89d-41a4-a6cc-fe8912d4177e</testCaseGuid>
+</TestCaseEntity>

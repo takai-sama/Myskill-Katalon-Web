@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can edit profil successfully</description>
+   <name>TC24 - Edit profile with empty email</name>
+   <tag>profile</tag>
+   <comment></comment>
+   <testCaseGuid>dc56befd-8f2b-493a-b622-b98b93488d80</testCaseGuid>
+</TestCaseEntity>

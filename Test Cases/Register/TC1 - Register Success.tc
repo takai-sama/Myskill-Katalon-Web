@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can register successfully</description>
+   <name>TC1 - Register Success</name>
+   <tag>register</tag>
+   <comment></comment>
+   <testCaseGuid>ff08b3d2-15fc-4595-8216-7c2c96924ec0</testCaseGuid>
+</TestCaseEntity>

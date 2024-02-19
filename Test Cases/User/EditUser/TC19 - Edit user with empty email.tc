@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user (Toko) can edit user Successfully</description>
+   <name>TC19 - Edit user with empty email</name>
+   <tag>user</tag>
+   <comment></comment>
+   <testCaseGuid>bd28fba3-888d-478f-9749-459275fc5707</testCaseGuid>
+</TestCaseEntity>

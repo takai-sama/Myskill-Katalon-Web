@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user (Toko) can edit user Successfully</description>
+   <name>TC18 - Edit user with empty nama</name>
+   <tag>user</tag>
+   <comment></comment>
+   <testCaseGuid>13952feb-3374-4b3c-8aae-ab8f9fdb4ea6</testCaseGuid>
+</TestCaseEntity>

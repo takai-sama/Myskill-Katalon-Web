@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user (Toko) can't add user with empty email</description>
+   <name>TC15 - Add user with empty email</name>
+   <tag>user</tag>
+   <comment></comment>
+   <testCaseGuid>439e78c8-f45b-44b8-9892-9dfc66e4666c</testCaseGuid>
+</TestCaseEntity>

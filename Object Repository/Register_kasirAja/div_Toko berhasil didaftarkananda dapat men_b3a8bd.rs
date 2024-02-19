@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Toko berhasil didaftarkananda dapat men_b3a8bd</name>
    <tag></tag>
-   <elementGuidId>3d732bf7-bd1c-4c94-a642-ad136333264f</elementGuidId>
+   <elementGuidId>e92b8fb1-c422-453e-a6dd-c04aa7dc5be1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>103169f3-5b88-4d5c-8140-310390112d5b</webElementGuid>
+      <webElementGuid>c397eea4-316f-43e3-826e-d6e87a585622</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>a675170f-1f38-4a6f-b5d0-7762ae7ed2e1</webElementGuid>
+      <webElementGuid>4be99e2a-7303-4785-a3b4-962b11b0da75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>acdf781c-2a9f-4fe0-b8d0-2795db8e2427</webElementGuid>
+      <webElementGuid>1dca189d-7637-4fd8-9854-328c8ed1fbea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>toast-1-title</value>
-      <webElementGuid>d5d5cc3f-a915-4f18-bf54-0c54572144a3</webElementGuid>
+      <webElementGuid>a8ab0fef-2368-40fc-b6ce-2a76cf9f9ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-alert css-1hp6ttu</value>
-      <webElementGuid>ff053627-79ef-4734-8095-3e3c4be5cddf</webElementGuid>
+      <webElementGuid>647a7ccd-94a0-43fc-ba1e-199537b0aede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Toko berhasil didaftarkananda dapat menggunakan login sekarang</value>
-      <webElementGuid>6fac36ad-76c2-427a-8a72-fd521e2d1286</webElementGuid>
+      <webElementGuid>6eabdf59-8e13-4860-bb8a-e96a58ad45e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;chakra-toast-manager-top-right&quot;)/li[@class=&quot;chakra-toast&quot;]/div[@class=&quot;chakra-toast__inner&quot;]/div[@id=&quot;1&quot;]</value>
-      <webElementGuid>92b72317-3c7c-41c2-ac71-ebe731741250</webElementGuid>
+      <webElementGuid>640235e6-2c9f-41a3-9f74-099e0c43cc7d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='1']</value>
-      <webElementGuid>04ee6f5b-5e87-45e1-b588-8cd6a6715529</webElementGuid>
+      <webElementGuid>fb5d15f0-5cf0-40f1-9042-462c617dbd57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='chakra-toast-manager-top-right']/li/div/div</value>
-      <webElementGuid>39e02029-919b-4a3c-ae0d-d17b7d80fb89</webElementGuid>
+      <webElementGuid>dcb53ae7-6cc5-4143-8625-8ddd8852971c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='login'])[1]/following::div[5]</value>
-      <webElementGuid>e6337e80-eeda-4df4-b7e5-3ea598803a17</webElementGuid>
+      <webElementGuid>2af31e6f-3b7a-4833-b5e5-6d2330e8b5f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ingin mencoba, daftar ?'])[1]/following::div[5]</value>
-      <webElementGuid>0379f012-91dc-42db-b38c-254ffec708fa</webElementGuid>
+      <webElementGuid>fd40e8f4-05f4-4f2b-9d3c-16b5d1f6dfdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div</value>
-      <webElementGuid>ff2386c0-2d02-41b0-b0ff-f6bbcda47e50</webElementGuid>
+      <webElementGuid>fcc56a43-d8bd-4e14-b0d6-9f6cc07bd15f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = '1' and (text() = 'Toko berhasil didaftarkananda dapat menggunakan login sekarang' or . = 'Toko berhasil didaftarkananda dapat menggunakan login sekarang')]</value>
-      <webElementGuid>91ef98ab-a70d-4598-b42a-9a2ab8188a49</webElementGuid>
+      <webElementGuid>131a765e-a56e-448b-8d45-41d1ab5835d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

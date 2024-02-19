@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can edit profil successfully</description>
+   <name>TC23 - Edit profile with empty nama</name>
+   <tag>profile</tag>
+   <comment></comment>
+   <testCaseGuid>fa257bca-eccc-41d1-ad32-40e23e4f0150</testCaseGuid>
+</TestCaseEntity>

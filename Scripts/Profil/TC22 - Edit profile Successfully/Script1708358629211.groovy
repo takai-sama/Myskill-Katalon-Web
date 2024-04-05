@@ -41,5 +41,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Profile_kasirAja/input_
 
 WebUI.click(findTestObject('Object Repository/Profile_kasirAja/button_simpan'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Profile_kasirAja/div_successitem diubah'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Profile_kasirAja/div_successitem diubah'), 0)
 

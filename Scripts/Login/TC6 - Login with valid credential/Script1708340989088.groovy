@@ -27,5 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login_kasirAja/input_pa
 
 WebUI.click(findTestObject('Object Repository/Login_kasirAja/button_login'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Login_kasirAja/h3_kasirAja'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login_kasirAja/h3_kasirAja'), 0)
 

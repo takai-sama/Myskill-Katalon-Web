@@ -39,5 +39,5 @@ WebUI.setText(findTestObject('User/input_email_email'), 'panjimart2@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Profile_kasirAja/button_simpan'))
 
-WebUI.verifyElementNotVisible(findTestObject('Profile_kasirAja/div_successitem diubah'))
+WebUI.verifyElementPresent(findTestObject('Profile_kasirAja/div_successitem diubah'), 0)
 

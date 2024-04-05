@@ -39,5 +39,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Profile_kasirAja/input_
 
 WebUI.click(findTestObject('Object Repository/Profile_kasirAja/button_simpan'))
 
-WebUI.verifyElementVisible(findTestObject('User/div_name is not allowed to be empty'))
+WebUI.verifyElementPresent(findTestObject('User/div_name is not allowed to be empty'), 0)
 

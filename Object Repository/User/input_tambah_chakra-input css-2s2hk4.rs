@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_tambah_chakra-input css-2s2hk4</name>
+   <tag></tag>
+   <elementGuidId>9184c768-35f3-4c46-9e61-d8c3174e5ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'cari']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.css-2s2hk4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bc146286-a324-4ac9-8480-c778a7b6ba1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>cari</value>
+      <webElementGuid>ca8503fe-6414-4dc6-a496-0f3ea29d6714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-2s2hk4</value>
+      <webElementGuid>12acaccc-1dcb-4c0f-a0db-c8fd2687d644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>4b181514-0081-48d8-94af-3d74a15b9c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]/div[@class=&quot;css-1t33j5j&quot;]/div[@class=&quot;css-6co16k&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-input__group css-4302v8&quot;]/input[@class=&quot;chakra-input css-2s2hk4&quot;]</value>
+      <webElementGuid>c41c9e9a-44e2-4b3b-8b08-7900196e020b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='panji']</value>
+      <webElementGuid>e4edb8d0-1ca5-45aa-b473-87f6c9cf0491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div/div/div/input</value>
+      <webElementGuid>786025b9-f98e-4a74-bc19-9cf9055e0055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>687603a9-12af-4691-8ada-dd050c2f5229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'cari']</value>
+      <webElementGuid>c4321279-90cb-41eb-b500-dd75747e70df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

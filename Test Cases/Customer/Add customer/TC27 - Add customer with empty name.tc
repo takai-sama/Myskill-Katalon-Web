@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC27 - Add customer with empty name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a954126e-8f15-4d30-883e-9022d4bfca03</testCaseGuid>
+</TestCaseEntity>

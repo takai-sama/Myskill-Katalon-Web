@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30 - Add customer with name and no hp only</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90a56cae-c8c1-4b34-876a-489ef4d3f518</testCaseGuid>
+</TestCaseEntity>
